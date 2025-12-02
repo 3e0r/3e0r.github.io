@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3e0r"
+title: "Главная"
 permalink: /
 classes: wide
 author_profile: true
