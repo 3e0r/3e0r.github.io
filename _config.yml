@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Break Time
-
+url: "https://3e0r.github.io"
+baseurl: ""
 email:
 description: Студент 1 курса Информационной безопасности КНИТУ, пентест, ред тим.
 minimal_mistakes_skin: dark
