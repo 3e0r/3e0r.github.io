@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "3e0r"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/bio-photo.png"
   bio    : "Зовут меня Артём, можно Тёма или же по нику 3e0r (Зеор)."
   links:
     - label: "Telegram"
