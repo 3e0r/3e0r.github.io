@@ -5,9 +5,6 @@ categories:
   - ctf
 tags:
   - web
-  - flask
-  - mongodb
-  - nosql-injection
   - writeup
 ---
 
