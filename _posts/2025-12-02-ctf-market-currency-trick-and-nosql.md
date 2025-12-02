@@ -1,5 +1,5 @@
 ---
-title: "[WEB] CTF 'babyweb' (ctfcup-2025)"
+title: '[WEB] CTF "babyweb" (ctfcup-2025)'
 date: 2025-12-02T07:14:00+03:00
 categories:
   - ctf
