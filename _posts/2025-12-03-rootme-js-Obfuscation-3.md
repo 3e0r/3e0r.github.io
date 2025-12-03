@@ -13,7 +13,7 @@ header:
     - label: "Lab Root-Me"
       url: "https://www.root-me.org/fr/Challenges/Web-Client/Javascript-Obfuscation-3"
 ---
-**Описание: Полезный или бесполезный, вот в чем вопрос...**
+**Описание: Полезный или бесполезный, вот в чем вопрос...**  
 Заходя на сайт, просмотрю сразу исходный код. Вижу скрипт js.  
 <img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/26bff843-44c8-42bd-a304-e9c0c83a7581" />  
 Для деобфуксации вставлю скрипт на сайт **https://deobfuscate.io/**. Он вывел результат:   
