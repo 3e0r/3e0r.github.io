@@ -86,6 +86,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      toc: true
       related: true
   # _pages
   - scope:
