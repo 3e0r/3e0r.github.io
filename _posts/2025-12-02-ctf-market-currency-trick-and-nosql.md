@@ -1,5 +1,5 @@
 ---
-title: '[WEB] CTF "babyweb" (ctfcup-2025)'
+title: '[WEB] CTF "trustmebroker" (ctfcup-2025)'
 date: 2025-12-02T07:14:00+03:00
 categories:
   - ctf
@@ -11,7 +11,7 @@ header:
   caption: "Кубок CTF 2025"                       # подпись под картинкой (опционально)
 ---
 
-# Задача из ctfcup-2025 "babyweb"
+# Задача из ctfcup-2025 "trustmebroker"
 
 **Флаг:** `CTFCup{Cur3ncy_Tr1ck5_N3v3r_F41L}`  
 
