@@ -3,6 +3,7 @@ title: '[WEB] "File upload - Double extensions"'
 date: 2025-12-03T13:43:00+03:00
 categories:
   - Lab
+  - RootMe
 tags:
   - web
   - Double extensions
