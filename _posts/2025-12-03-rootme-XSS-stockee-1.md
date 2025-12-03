@@ -12,7 +12,7 @@ header:
   overlay_filter: 0.4
   actions:
     - label: "Lab Root-Me"
-      url: "https://www.root-me.org/fr/Challenges/Web-Serveur/File-upload-Double-extensions"
+      url: "https://www.root-me.org/fr/Challenges/Web-Client/XSS-Stockee-1"
 ---
 
 **Украдите файл cookie сеанса администратора и используйте его для проверки события.**  
