@@ -3,6 +3,7 @@ title: '[WEB] CTF "goose-revenge" (ctfcup-2025)'
 date: 2025-12-03T12:46:00+03:00
 categories:
   - ctf
+  - ctfcup-2025
 tags:
   - web
 header:
