@@ -25,7 +25,7 @@ header:
 <img width="331" height="393" alt="image" src="https://github.com/user-attachments/assets/6fdf34d6-791d-4bdd-83d5-e219c9841066" />  
 Правой кнопкой мыши -> Send To Repeater  
 Затем пробуем нащупать ендпойнт с методом GET, в данном случае ендпойнт - /api/  
-И мы видим:  
+И мы видим:
 
 |  Verb  |	        Endpoint         |	Parameters        |	Response       |
 |:------:|:-------------------------:|:------------------:|:--------------:|
