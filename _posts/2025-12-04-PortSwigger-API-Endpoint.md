@@ -10,10 +10,10 @@ tags:
 excerpt: " "
 header:
   overlay_color: "#ffffff"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/2560px-Logo_of_PortSwigger.svg.png
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/2560px-Logo_of_PortSwigger.svg.png"
   overlay_filter: 0.4
   actions:
-    - label: "Lab PortSwigger"https://portswigger.net/web-security/learning-paths/api-testing/api-testing-api-documentation/api-testing/lab-exploiting-api-endpoint-using-documentation
+    - label: "Lab PortSwigger"https://portswigger.net/web-security/learning-paths/api-testing/api-testing-api-documentation/api-testing/lab-exploiting-api-endpoint-using-documentation"
       url: "https://portswigger.net/web-security/learning-paths/api-testing/api-testing-identifying-and-interacting-with-api-endpoints/api-testing/lab-exploiting-unused-api-endpoint"
 ---  
 
