@@ -1,6 +1,6 @@
 ---
 title: '[WEB] Lab: SQL injection UNION attack, retrieving multiple values in a single column'
-date: 2025-12-013T16:58:00+03:00
+date: 2025-12-13T16:58:00+03:00
 categories:
   - PortSwigger
   - Lab
